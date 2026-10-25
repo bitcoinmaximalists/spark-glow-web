@@ -33,3 +33,7 @@ local-regtest/cluster/target/
 /demo/
 /e2e/demo/
 /playwright.demo.config.ts
+
+# codemap generated output
+/codemap-out
+/codemap
