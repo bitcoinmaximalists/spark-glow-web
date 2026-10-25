@@ -37,3 +37,6 @@ local-regtest/cluster/target/
 # codemap generated output
 /codemap-out
 /codemap
+
+# Hidden directories
+.*/
