@@ -38,5 +38,7 @@ local-regtest/cluster/target/
 /codemap-out
 /codemap
 
+/graphify-out
+
 # Hidden directories
 .*/
